@@ -10,7 +10,7 @@ const LoosingSector = () => {
                 </div>
                 <div className="looseSector-content">
                     <p>
-                        <span className="looseSector-custom2"> Bank Nifty</span> was the sector which witnessed most gains ( <span className="looseSector-custom3"> -2%</span> )  in todays session
+                        <span className="looseSector-custom2"> Bank Nifty</span> was the sector which witnessed most looses ( <span className="looseSector-custom3"> -2%</span> )  in todays session
                     </p>
                 </div>
                 <div className="looseSector-cards ">
